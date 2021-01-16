@@ -18,7 +18,7 @@ let string = `
   }
   
   #html::-webkit-scrollbar {
-    width: 0 !important 
+    width: 0 !important; 
   }
   
   #div1Wrapper {
