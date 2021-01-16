@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: #ffffff;
+  box-sizing: border-box;
+}
+
+*::after {
+  box-sizing: border-box;
+}
+
+*::before {
+  box-sizing: border-box;
+}
+
+#flex-box{
+  display: flex;
+}
+
+* {
+  -webkit-transition: all 1s;
+}
